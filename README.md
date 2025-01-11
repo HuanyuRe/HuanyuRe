@@ -1,5 +1,5 @@
 ## Hello 👋
-![Mail](https://img.shields.io/badge/-HuanyuRe@163.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:HuanyuRe@163.com)
+[![Mail](https://img.shields.io/badge/-HuanyuRe@163.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:HuanyuRe@163.com)
 ![QQ](https://img.shields.io/badge/QQ-1298711060-red.svg "QQ")
 
 
